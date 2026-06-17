@@ -1,11 +1,4 @@
 # NMAP BASIC TO ADVANCE 
-<img width="389" height="557" alt="image" src="https://github.com/user-attachments/assets/d125bc12-95b4-4a3f-822e-26fc700b0414" />
-
-
-
-
-
-
 
 
 ## **INTRODUCTION** 

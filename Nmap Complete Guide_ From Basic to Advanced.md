@@ -1,5 +1,7 @@
 # NMAP BASIC TO ADVANCE 
-<img width="787" height="596" alt="image" src="https://github.com/user-attachments/assets/f1848abe-2560-4eaa-8ff3-cce9d6aa2d75" />
+<img width="389" height="557" alt="image" src="https://github.com/user-attachments/assets/d125bc12-95b4-4a3f-822e-26fc700b0414" />
+
+
 
 
 

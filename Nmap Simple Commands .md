@@ -3,7 +3,7 @@
 
 ```bash
 
-> Basic Scan = nmap [target]
+Basic Scan = nmap [target]
 
 Specific Port Scan = nmap -p [port] [target]
 
@@ -27,6 +27,8 @@ Script Scan = nmap -sC [target]
 
 Fast Scan = nmap nmap -F [target]-sC [target]
 ```
+
+> This is a quote.
 
 
 

@@ -1,7 +1,7 @@
 # Nmap Cheat Sheet
 
- Quick reference guide for common Nmap commands and scanning techniques.
------
+. Quick reference guide for common Nmap commands and scanning techniques.
+
 ## Basic Usage
 
 | Purpose | Command |

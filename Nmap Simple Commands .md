@@ -1,5 +1,7 @@
 
-NMAP COMMANDS :
+# NMAP COMMANDS :
+
+```bash
 
 Basic Scan = nmap [target]
 
@@ -24,6 +26,7 @@ Ping Scan = nmap -sn [target]
 Script Scan = nmap -sC [target]
 
 Fast Scan = nmap nmap -F [target]-sC [target]
+```
 
 
 

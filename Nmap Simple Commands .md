@@ -3,7 +3,7 @@
 
 ```bash
 
-Basic Scan = nmap [target]
+> Basic Scan = nmap [target]
 
 Specific Port Scan = nmap -p [port] [target]
 

@@ -1,4 +1,4 @@
-# NMAP COMMANDS # :
+# NMAP COMMANDS :
 ```bash
 Basic Scan = nmap [target]
 Specific Port Scan = nmap -p [port] [target]

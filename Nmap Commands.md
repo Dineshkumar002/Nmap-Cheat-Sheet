@@ -77,13 +77,12 @@ Quick reference guide for common Nmap commands and scanning techniques.
 
 
 
-
--  Purpose | Command 
-- |---------|----------|
-- Scan a host | `nmap 192.168.1.1` 
-- Scan a domain | `nmap scanme.nmap.org` 
-- Multiple targets | `nmap 192.168.1.1 192.168.1.2` 
-- Subnet scan | `nmap 192.168.1.0/24` 
+. Purpose | Command 
+. |---------|----------|
+. Scan a host | `nmap 192.168.1.1` 
+. Scan a domain | `nmap scanme.nmap.org` 
+. Multiple targets | `nmap 192.168.1.1 192.168.1.2` 
+. Subnet scan | `nmap 192.168.1.0/24` 
 
 
 

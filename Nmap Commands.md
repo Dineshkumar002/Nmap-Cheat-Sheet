@@ -14,7 +14,7 @@ Quick reference guide for common Nmap commands and scanning techniques.
 ## Port Scanning
 
 | Purpose | Command |
-
+|---------|---------|
 | Specific ports | `nmap -p 80,443 target` |
 | Port range | `nmap -p 1-1000 target` |
 | All ports | `nmap -p- target` |

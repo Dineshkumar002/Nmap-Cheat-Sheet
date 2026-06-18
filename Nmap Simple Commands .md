@@ -21,13 +21,13 @@ Operating System Detection = nmap -O [target]
 
 UDP Scan =  nmap -sU [target]
 
-Ping Scan = nmap -sn [target]
+> Ping Scan = nmap -sn [target]
 
 Script Scan = nmap -sC [target]
 
 Fast Scan = nmap nmap -F [target]-sC [target]
 ```
-< This is a quote.
+This is a quote.
 # Completed 
 
 

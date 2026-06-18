@@ -72,3 +72,20 @@ Quick reference guide for common Nmap commands and scanning techniques.
 | Stealth + version detection | `nmap -sS -sV target` |
 
 > Use Nmap responsibly and only on systems you own or have permission to test.
+
+
+
+
+
+| Purpose | Command |
+|----------|----------|
+| Scan a host | nmap 192.168.1.1|
+| Scan a domain | nmap scanme.nmap.org |
+| Multiple targets | nmap 192.168.1.1 192.168.1.2 |
+| Subnet scan | nmap 192.168.1.0/24 |
+
+
+
+
+
+

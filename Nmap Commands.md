@@ -77,7 +77,7 @@ Quick reference guide for common Nmap commands and scanning techniques.
 
 
 
-   Purpose | Command 
+  | Purpose | Command |
  -
 |Scan a host | nmap 192.168.1.1|
 |Scan a domain | nmap scanme.nmap.org |
